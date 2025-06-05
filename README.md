@@ -1,16 +1,57 @@
-## Hi there 👋
+# <ins>Welcome to my Github profile!</ins>
 
-<!--
-**NicolasCB-7472/NicolasCB-7472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Hi, I'm an IT student from Uruguay, and here's my profile with many academic, (and some personal), projects I've been developing!
+ 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***<ins>Languages I use</ins> ...*** 💻
+
+---
+| C | C++ | Java | SQL |
+| :----------: | :----------: | :----------: | :----------: |
+|  HTML | CSS | JS | XML |
+
+---
+
+
+***<ins>Notable repositories:</ins>***
+
+ + Filesystem:
+    - C++
+    - Makefile
+    - Data structures
++ Game2048
+    - C 
+    - Functions 
+    - Primitive data types
++ Proyecto BD
+    - SQL
+    - Data Definition Language
+    - Data Manipulation Language
+    - Triggers
+    - Store Procedure
++ CarsHTML <- Has operational Github Page!
+    - HTML
+    - Structure & Rules
++ AoECSS <- Has operational Github Page!
+    - CSS
+    - Web responsiveness
+    - Style 😎
+
+---
+
+***<ins>Highlights:</ins>***
+```
+- Use of Linux environments (CentOS, RockyOS, Fedora, Ubuntu, Mint)
+- Use of Windows environments (Windows 7, 10, 11)
+- Knowledge in SOAP, WSDL and Javascript
+- Additional software like IDEs, and word/image processing software.
+
+--- x ---
+To be expanded!
+```
+
+## Thank you for taking the time to read this markdown! I hope you enjoyed it! My direct messages are opened for any suggestion, feedback or overall comment! Cheers! 😃
+
+
