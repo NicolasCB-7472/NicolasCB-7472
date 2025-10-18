@@ -54,6 +54,6 @@ To be expanded!
 
 ## Thank you for taking the time to read this markdown! I hope you enjoyed it! My direct messages are opened for any suggestion, feedback or overall comment! Cheers! 😃
 
-## I have a SECURITY.MD for general purpose in my profile main branch (repository NicolasCB-7472), issues/discussions can be brought to my general attention through there as well or in any repository accordingly. As I'm a single person I can manage any bug report that way for now. Apologies for the long process
+_I have a SECURITY.MD for general purpose in my profile main branch (repository NicolasCB-7472), issues/discussions can be brought to my general attention through there as well or in any repository accordingly. As I'm a single person I can manage any bug report that way for now. Apologies for the long process!_
 
 
